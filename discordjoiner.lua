@@ -51,7 +51,7 @@ btn.Name = "DiscordButton"
 btn.AnchorPoint = Vector2.new(0, 0.5)
 btn.Position = UDim2.new(0, 50, 0.5, 0)
 btn.Size = UDim2.new(1, -60, 1, -20)
-btn.Text = "Join Skull Hub Discord"
+btn.Text = "Join DeadRails by LPhong Discord"
 btn.TextColor3 = Color3.fromRGB(255, 255, 255)
 btn.TextSize = 16
 btn.Font = Enum.Font.GothamSemibold
@@ -71,7 +71,7 @@ btn.MouseLeave:Connect(function()
 end)
 
 local LoaderData = {
-	DiscordInvite = "https://discord.gg/VGW4gkmnBa"
+	DiscordInvite = "https://discord.gg/c5uBFm9tdg"
 }
 
 local function exists(func)
